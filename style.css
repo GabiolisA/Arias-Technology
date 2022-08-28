@@ -1,0 +1,23 @@
+# Arias-Technology
+/* css files add styling rules to your content */
+
+body {
+	margin: 0cm;
+}
+
+.cover {
+
+	height: 400px;
+    background-image: url(https://cdn.glitch.global/e5b26787-9248-4cbf-8dd3-c693271c106f/1.jpg?v=1661718186658);
+  color: white;
+	background-size: cover;
+  background-position: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	background-blend-mode: darken;
+	}
+
+.card {
+  border:0 import
+    box-shadow 0 4px 6px -1px rgba(0,0,0.1), 0 2px 4px -1px rgba(0,0,0.06);
+	}
+ 
